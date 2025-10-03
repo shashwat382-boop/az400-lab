@@ -1,3 +1,7 @@
 this is fileb
 
+<<<<<<< HEAD
 doing change at main level
+=======
+this change has been done from feature branch 2 from direct github
+>>>>>>> 8e0cf7045e172ad7a017c13b48cc1ca3eaee6f82
